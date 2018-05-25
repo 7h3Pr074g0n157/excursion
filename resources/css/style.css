@@ -8,3 +8,14 @@ h1{
   font-size: 50px;
   color: white;
 }
+a{
+  color: aquamarine;
+  font-size: 16px;
+}
+footer{
+  color: gray;
+  text-align: right;
+}
+#slogan{
+  color: gray;
+}
